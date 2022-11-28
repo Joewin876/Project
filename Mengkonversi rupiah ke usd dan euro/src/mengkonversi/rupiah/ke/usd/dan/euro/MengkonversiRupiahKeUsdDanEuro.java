@@ -14,8 +14,8 @@ public class MengkonversiRupiahKeUsdDanEuro {
         
         System.out.println("masukan rupiah = ");
         rupiah=input.nextInt();
-        usd = rupiah/14508;
-        euro = rupiah/17064;
+        usd = rupiah/15713;
+        euro = rupiah/16479;
         System.out.println("USD = "+usd);
         System.out.println("Euro = "+euro);
         
